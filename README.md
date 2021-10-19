@@ -30,6 +30,6 @@ optional arguments:
   --filename FILENAME   default is <organization_repo>.json
 ```
 
-`repo` is the only argument mandatory, by default it will only fetch issue of the type `VULNERABILITY` and from all severities. Default URL used is (https://sonarcloud.io)[https://sonarcloud.io]
+`repo` is the only argument mandatory, by default it will only fetch issue of the type `VULNERABILITY` and from all severities. Default URL used is (https://sonarcloud.io)
 
 This create a json file with all the issues of the target `organization_repo`.
